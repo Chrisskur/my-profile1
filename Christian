@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Christian Fota's profile</title>
+	<meta name="description" content="This is Christian's profile">
+	<meta charset="UTF-8">
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.0/css/all.css" integrity="sha384-REHJTs1r2ErKBuJB0fCK99gCYsVjwxHrSU0N7I1zl9vZbggVJXRMsv/sLlOAGb4M" crossorigin="anonymous">
+</head>
+
+<body>
+
+<div class="container">
+	<div class="card-white" id="introduction">
+		<h1>Christian Fota</h1>
+		<img src="images/profile.png" class="img-circle" width="150px" alt="Christian Fota">
+		<p>Hi everyone. My name is Christian Fota and I'm currently in my 2nd year at IESEG school of Management.</p>
+		<a href="https://www.ieseg.fr" target="_blank" class="btn-green">IESEG</a>
+	</div>
+
+	<div class="card-white">
+		<h2>FOOTBALL</h2>
+			<p>I really like football. I support PSG, which is the best soccer team ever in my opinion. I love how the players enjoy giving their best for this jersey which is for me their way to show their love to Paris.</p>
+	</div>
+
+	<div class="card-white">
+		<h2>WOMEN</h2>
+		<p>I love women. Weirdly, I'm straight and so I love the female gender. That's all.</p>
+	</div>
+
+	<div class="card-white">
+		<h2>VIDEO GAMES</h2>
+			<p>I love playing on my PS4. I also have an Xbox and a switch. I enjoy playing many games such as Fifa, NBA2K, Mario Kart, Mortal Kombat and many more.</p>
+	</div>
+
+	<div class="card-white" id="margin-bottom">
+		<h2>CONTACT ME</h2>
+				<a href="https://www.facebook.com/chris.fota" target="_blank"><i class="fab fa-facebook"></i></a>
+	</div>
+</div>
+
+</body>
+</html>
